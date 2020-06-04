@@ -1,0 +1,69 @@
+### Game of Life Deck: Game 
+1 mindfullness1
+1 mindfullness33
+1 mindfullness36
+1 mindfullness35
+1 mindfullness34
+1 mindfullness31
+1 mindfullness32
+1 mindfullness30
+1 mindfullness27
+1 mindfullness29
+1 mindfullness23
+1 mindfullness26
+1 mindfullness25
+1 mindfullness24
+1 mindfullness20
+1 mindfullness22
+1 mindfullness21
+1 mindfullness19
+1 mindfullness18
+1 mindfullness15
+1 mindfullness17
+1 mindfullness16
+1 mindfullness13
+1 mindfullness14
+1 mindfullness5
+1 mindfullness12
+1 mindfullness11
+1 mindfullness10
+1 mindfullness9
+1 mindfullness8
+1 mindfullness7
+1 mindfullness6
+1 mindfullness3
+1 mindfullness4
+1 mindfullness2
+1 conflict1
+1 conflict24
+1 conflict22
+1 conflict20
+1 conflict21
+1 conflict19
+1 conflict18
+1 conflict16
+1 conflict17
+1 conflict15
+1 conflict14
+1 conflict13
+1 conflict9
+1 conflict12
+1 conflict11
+1 conflict10
+1 conflict8
+1 conflict7
+1 conflict6
+1 conflict5
+1 conflict4
+1 conflict3
+1 conflict2
+1 life goal5
+1 life goal12
+1 life goal11
+1 life goal10
+1 life goal9
+1 life goal8
+2 Life Goal1
+1 life goal6
+1 Life Goal3
+1 Life Goal4
